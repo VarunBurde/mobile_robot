@@ -1,0 +1,8 @@
+prefix=/home/student/varunmk_ws/install
+
+Name: robot_coordination
+Description: Description of robot_coordination
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/student/varunmk_ws/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/student/varunmk_ws/devel
+
+Name: simulator_e130
+Description: Description of simulator_e130
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/student/varunmk_ws/devel/lib 
+Requires: 

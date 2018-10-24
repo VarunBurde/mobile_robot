@@ -1,0 +1,2 @@
+robot_coordination:simulator_e130
+-DCATKIN_DEVEL_PREFIX=/home/student/varunmk_ws/devel -DCMAKE_INSTALL_PREFIX=/home/student/varunmk_ws/install -G Unix Makefiles
